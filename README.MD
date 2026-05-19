@@ -1,0 +1,1 @@
+This project demonstrates how the bank atm operates operations, and transactions.
